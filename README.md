@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ldvhaase
+- 👋 Hi, I’m Lucas Haase
 - 👀 I’m interested in front end web dev and ML / AI
 - 🌱 I’m currently learning TensorFlow
 - 💞️ I’m looking to collaborate on ideas!
