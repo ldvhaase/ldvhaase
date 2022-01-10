@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Haase
-- 👀 I’m interested in front end web dev and ML / AI
-- 🌱 I’m currently learning TensorFlow
+- 👀 I’m interested in web dev and ML / AI
+- 🌱 I’m currently learning Spark
 - 💞️ I’m looking to collaborate on ideas!
 - 📫 How to reach me ldvhaase@gmail.com
 
