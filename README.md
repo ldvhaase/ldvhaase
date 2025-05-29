@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas Haase
-- 👀 I specialize in Angular, NestJs, and Spring
+- 👀 I specialize in Spring, Angular, and React
 - 📫 Reach me at ldvhaase@gmail.com
 
 <!---
